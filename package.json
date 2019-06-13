@@ -1,0 +1,21 @@
+{
+  "name": "remittance",
+  "version": "1.0.0",
+  "description": "Implementation of B9lab Ethereum Developer Course Project 2",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0",
+    "truffle-contract": "^4.0.19",
+    "web3": "1.0.0-beta.37"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "truffle": "5.0.8",
+    "truffle-assertions": "^0.8.2"
+  },
+  "scripts": {
+    "build": "truffle build",
+    "develop": "truffle develop",
+    "test": "truffle test"
+  },
+  "author": "Pedro Rodrigues"
+}
